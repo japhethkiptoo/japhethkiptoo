@@ -1,4 +1,4 @@
-# Hi there 👋, I am JAPHETH KIPTOO.
+# Hi there 👋, I am Japheth Kiptoo
 ## Software Engineer
 
 <!--
