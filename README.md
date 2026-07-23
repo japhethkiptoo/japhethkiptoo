@@ -1,17 +1,38 @@
-# Hi there 👋, I am Japheth Kiptoo
-## Software Engineer
+# Hi there, I'm Japheth Kiptoo
 
-<!--
-**japhethkiptoo/japhethkiptoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Backend Software Engineer | Web3 & Systems Developer
 
-Here are some ideas to get you started:
+I'm a backend software engineer with 5+ years of experience building resilient, high-performance distributed systems, Web3 protocols, and financial integrations. I specialize in designing scalable APIs and modernizing system architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack & Tools
+
+* **Languages:** TypeScript, Node.js, Rust
+* **Web3 & DeFi:** Solana (Anchor framework), Smart Contracts, Yield Protocols
+* **Database & Storage:** PostgreSQL, MongoDB, Redis
+* **DevOps & Cloud:** Docker, AWS, CI/CD Pipelines
+* **Tools & Environment:** Zed Editor, Linux, Git
+
+---
+
+## 🔭 What I'm Up To
+
+* **🔭 Currently Working On:** Building high-throughput backend services and decentralized finance (DeFi) systems on Solana.
+* **🌱 Currently Exploring:** Advanced Rust systems programming and lightweight machine learning engines in Node.js.
+* **💬 Ask Me About:** Node.js architecture, Rust microservices, Solana program development, and database optimizations.
+* **⚡ Fun Fact:** When I'm not writing code, I'm usually under the hood tweaking mechanical parts on my 2WD Subaru Impreza wagon.
+
+---
+
+## 📫 Connect with Me
+
+* **LinkedIn:** [linkedin.com/in/japhethkiptoo](https://linkedin.com) <!-- Replace with your actual link -->
+* **Twitter/X:** [@japhethkiptoo](https://x.com) <!-- Replace with your actual link -->
+* **Email:** [your.email@example.com](mailto:your.email@example.com) <!-- Replace with your actual email -->
+
+---
+
+<p align="center">
+  <i>"Simplicity is prerequisite for reliability."</i> — Edsger W. Dijkstra
+</p>
