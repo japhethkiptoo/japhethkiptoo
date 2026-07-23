@@ -29,10 +29,6 @@ I'm a backend software engineer with 5+ years of experience building resilient, 
 
 * **LinkedIn:** [linkedin.com/in/japhethkiptoo](https://linkedin.com) <!-- Replace with your actual link -->
 * **Twitter/X:** [@japhethkiptoo](https://x.com) <!-- Replace with your actual link -->
-* **Email:** [your.email@example.com](mailto:your.email@example.com) <!-- Replace with your actual email -->
+* **Email:** [japh.kiptoo@gmail.com](mailto:japh.kiptoo@gmail.com) <!-- Replace with your actual email -->
 
 ---
-
-<p align="center">
-  <i>"Simplicity is prerequisite for reliability."</i> — Edsger W. Dijkstra
-</p>
